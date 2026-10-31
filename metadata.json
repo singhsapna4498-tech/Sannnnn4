@@ -1,0 +1,6 @@
+{
+  "name": "MX SENSE AI",
+  "description": "Universal Gaming Sensitivity Assistant for Free Fire India with automated hardware scanner, AI sensitivity engine, headshot calibration, and optimizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
